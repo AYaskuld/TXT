@@ -1,0 +1,5 @@
+favorite_film: "The Matrix 1999",
+favorite_serial: "Lost",
+favorite_food: "Pizza",
+favorite_season: "summer",
+country_to_visit: "Thailand"
